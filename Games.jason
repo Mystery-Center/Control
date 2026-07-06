@@ -1,0 +1,20 @@
+{
+  "games": [
+    {
+      "name": "Muscle Legends",
+      "icon": "rbxassetid://0000000000",
+      "gameIds": [1234567890],
+      "placeIds": [9876543210],
+      "teleportId": 9876543210,
+      "loaderUrl": "https://raw.githubusercontent.com/user/repo/main/muscle_legends.lua"
+    },
+    {
+      "name": "Brookhaven",
+      "icon": "rbxassetid://0000000000",
+      "gameIds": [4520749300],
+      "placeIds": [4924922222],
+      "teleportId": 4924922222,
+      "loaderUrl": "https://raw.githubusercontent.com/user/repo/main/brookhaven.lua"
+    }
+  ]
+}
